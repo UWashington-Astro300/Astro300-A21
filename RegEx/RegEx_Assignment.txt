@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-RegEx Assignment - Due Mon Jan 11 (1 pm)
+RegEx Assignment - Due Fri Oct 8 (5 pm)
 
 Answer Template: "RegEx_HW.txt" <-- Fill-in and upload to Canvas
 ------------------------------------------------------------------------
