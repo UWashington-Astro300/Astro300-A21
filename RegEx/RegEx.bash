@@ -229,14 +229,6 @@ read
 clear
 
 echo ""
-echo "grep -E '[0-9]{3}-[0-9]{2}-[0-9]{4}' words.txt       SSN"
-echo ""
-read
-grep -E '[0-9]{3}-[0-9]{2}-[0-9]{4}' words.txt
-read
-clear
-
-echo ""
 echo "---- Words and boundries ----"
 echo ""
 read
@@ -331,14 +323,6 @@ echo "sed 's/[0-9]/(&)/g' words.txt         sub with backreference '&'"
 echo ""
 read
 sed 's/[0-9]/(&)/g' words.txt
-read
-clear
-
-echo ""
-echo "sed '1,22d' words.txt                  deleting lines"
-echo ""
-read
-sed '1,22d' words.txt
 read
 clear
 
